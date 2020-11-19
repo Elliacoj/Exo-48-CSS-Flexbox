@@ -22,7 +22,6 @@ html {
     display: flex;
     justify-content: center;
     color: white;
-
 }
 
 .enfant:nth-child(1) {
